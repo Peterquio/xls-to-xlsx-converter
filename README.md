@@ -76,7 +76,7 @@ This can significantly reduce conversion time.
 ## 📥 Download  
   
 Download the latest version here:  
-👉 https://github.com/Peterquio/xls-to-xlsx-converter/releases  
+👉 https://github.com/Peterquio/xls-to-xlsx-converter/releases/tag/v1.0.0  
   
 ## 👨‍💻 Author  
   
